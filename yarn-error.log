@@ -1,0 +1,33 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add typescript ts-node-dev -D
+
+PATH: 
+  C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\OpenJDK\jdk-17\bin;C:\Program Files\Wireshark\tshark.exe;C:\Users\saoapint\Envs;C:\Program Files (x86)\Box\Box Edit\;C:\Program Files\dotnet\;C:\Users\saoapint\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\podman;C:\Program Files\Wireshark;C:\Program Files\Go\bin;C:\Users\saoapint\AppData\Local\Programs\Python\Python310\;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\saoapint\.pyenv\pyenv-win\bin;C:\Users\saoapint\.pyenv\pyenv-win\shims;C:\Users\saoapint\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\saoapint\AppData\Local\Microsoft\WindowsApps;C:\ProgramData\chocoportable\bin;C:\Users\saoapint\AppData\Local\Yarn\bin;C:\Users\saoapint\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\saoapint\.dotnet\tools;C:\Users\saoapint\AppData\Local\Programs\oh-my-posh\bin;C:\Users\saoapint\AppData\Local\Programs\oh-my-posh\themes;C:\Users\saoapint\AppData\Local\Programs\Hyper\resources\bin;C:\Users\saoapint\.dotnet\tools;C:\Users\saoapint\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\saoapint\go\bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+
+npm manifest: 
+  {
+    "name": "api-graphql",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Andre Sampaio <andre.sampaio@fit-tecnologia.org.br>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
